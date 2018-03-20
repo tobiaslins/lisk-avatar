@@ -1,4 +1,4 @@
-# lisk-avatar ![](https://avatar.lisk.ws/avatar?size=20) ![](https://avatar.lisk.ws/1?size=20) ![](https://avatar.lisk.ws/github?size=20) ![](https://avatar.lisk.ws/love?size=20) ![](https://avatar.lisk.ws/node?size=20)
+# lisk-avatar ![](https://avatar.lisk.ws/1L.png?size=20) ![](https://avatar.lisk.ws/123L.png?size=20) ![](https://avatar.lisk.ws/12312232.png?size=20) ![](https://avatar.lisk.ws/111111.png?size=20) ![](https://avatar.lisk.ws/333333.png?size=20)
 
 Avatar generates beautiful gradient avatars for your app or homepage (for example if they didn't upload one)
 
