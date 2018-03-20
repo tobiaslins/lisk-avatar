@@ -29,3 +29,14 @@ It is possible to receive an png avatar by adding the extension `.png`
 ```
 https://avatar.lisk.ws/1234567890L.png
 ```
+
+### Support me
+
+Of course feel free to support my work by voting for [`elevate`](https://explorer.lisk.io/delegate/17890508407355636952L) or simply donating a small amount! :)
+
+### Thanks to
+
+* cc001
+* vipertkd
+* alepop
+* liskpro.com
