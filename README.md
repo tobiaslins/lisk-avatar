@@ -6,11 +6,11 @@ Avatar is built on top of [`micro`](https://github.com/zeit/micro) and based on 
 
 ## How to use avatar
 
-To generate an avatar just embed following URL `https://avatar.lisk.ws/`. Now you can append a wallet id to generate an avatar
+To generate an avatar just embed following URL `https://avatar.lisk.ws/`. Now you can append a Lisk ID to generate an avatar
 
 You will receive a `svg` that you can embed within your application.
 
-Each wallet id will generate a unique `avatar`. Just replace `1234567890L` with your `wallet id`
+Each Lisk ID will generate a unique `avatar`. Just replace `1234567890L` with your `Lisk ID`
 
 ### SVG avatar
 
