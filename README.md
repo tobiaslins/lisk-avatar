@@ -30,6 +30,16 @@ It is possible to receive an png avatar by adding the extension `.png`
 https://avatar.lisk.ws/1234567890L.png
 ```
 
+### Custom size
+
+Just add the size parameter after the `Lisk ID`. SVG and PNG are both supported.
+
+```
+https://avatar.lisk.ws/1234567890L?size=50
+```
+
+![avatar](https://avatar.lisk.ws/1234567890L?size=50)
+
 ### Support me
 
 Of course feel free to support my work by voting for [`elevate`](https://explorer.lisk.io/delegate/17890508407355636952L) or simply donating a small amount! :)
