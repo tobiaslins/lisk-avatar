@@ -4,7 +4,7 @@
   "main": "build/main.js",
   "license": "MIT",
   "scripts": {
-    "start": "NODE_ENV=production micro -p ${PORT:-3000}",
+    "start": "NODE_ENV=production micro -p 8080",
     "build": "backpack build",
     "dev": "yarn build & micro-dev"
   },
