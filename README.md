@@ -1,8 +1,8 @@
 # lisk-avatar ![](https://avatar.lisk.ws/1L.png?size=20) ![](https://avatar.lisk.ws/323L.png?size=20) ![](https://avatar.lisk.ws/42312232.png?size=20) ![](https://avatar.lisk.ws/911111.png?size=20) ![](https://avatar.lisk.ws/733333.png?size=20)
 
-Avatar generates beautiful gradient avatars for your app or homepage (for example if they didn't upload one)
+Lisk Avatar generates the same avatars as you have seen on Lisk Hub.
 
-Avatar is built on top of [`micro`](https://github.com/zeit/micro) and based on the avatar generation algorithm from Lisk Hub
+Lisk Avatar is built on top of [`micro`](https://github.com/zeit/micro) and based on the avatar generation algorithm from Lisk Hub
 
 ## How to use avatar
 
