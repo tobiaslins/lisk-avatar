@@ -25,7 +25,7 @@
   "apps": [
     {
       "name": "lisk-avatar",
-      "script": "./build/main.js",
+      "script": "./runner.js",
       "instances": 0,
       "exec_mode": "cluster"
     }
