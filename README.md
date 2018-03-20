@@ -20,7 +20,7 @@ Per default the service returns an SVG avatar
 https://avatar.lisk.ws/1234567890L
 ```
 
-![Avatar for tobiaslins](https://avatar.lisk.ws/1234567890L)
+![avatar](https://avatar.lisk.ws/1234567890L?size=100)
 
 ### PNG avatar
 
@@ -36,7 +36,9 @@ Of course feel free to support my work by voting for [`elevate`](https://explore
 
 ### Thanks to
 
-* cc001
-* vipertkd
-* alepop
-* liskpro.com
+| Delegate    |                                        Avatar                                        |
+| ----------- | :----------------------------------------------------------------------------------: |
+| cc001       |    ![Avatar from cc001](https://avatar.lisk.ws/6787154358850114730L.png?size=25)     |
+| vipertkd    |   ![Avatar from vipertkd](https://avatar.lisk.ws/4980451641598555896L.png?size=25)   |
+| alepop      |    ![Avatar from alepop](https://avatar.lisk.ws/9010579446607279905L.png?size=25)    |
+| liskpro.com | ![Avatar from liskpro.com](https://avatar.lisk.ws/13112651512533400586L.png?size=25) |

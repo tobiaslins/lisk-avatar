@@ -19,17 +19,17 @@ module.exports = async (req, res) => {
   let wallet = pathname.substring(1, pathname.length)
   wallet = wallet.split('.')[0]
 
-  const avatarSVG = ReactDOMServer.renderToStaticMarkup(
-    <AccountVisual address={wallet} />
-  )
-
-  let height = 256
+  let height = 250
   if (sizePath.test(query.size)) {
     height = query.size.slice(query.size.indexOf('x') + 1)
     query.size = query.size.slice(0, query.size.indexOf('x'))
   } else {
     height = query.size
   }
+
+  const avatarSVG = ReactDOMServer.renderToStaticMarkup(
+    <AccountVisual address={wallet} size={height} />
+  )
 
   if (query.type === 'png' || pngExt.test(pathname)) {
     res.setHeader('Content-Type', 'image/png')
