@@ -1147,6 +1147,7 @@ export const Gradients = ({ scheme }) => (
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   animation-direction: alternate;
+  transform-origin: center;
 }
 
 @keyframes float {
