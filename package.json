@@ -1,0 +1,34 @@
+{
+  "name": "lisk-avatar",
+  "version": "1.0.0",
+  "main": "build/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=production micro -p ${PORT:-3000}",
+    "build": "backpack build",
+    "dev": "yarn build & micro-dev"
+  },
+  "dependencies": {
+    "backpack-core": "^0.5.0",
+    "bignumber.js": "^6.0.0",
+    "js-sha256": "^0.9.0",
+    "micro": "^9.1.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "svg-to-img": "^2.0.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "micro-dev": "^2.2.0"
+  },
+  "apps": [
+    {
+      "name": "lisk-avatar",
+      "script": "./build/main.js",
+      "instances": 0,
+      "exec_mode": "cluster"
+    }
+  ],
+  "prettier": {}
+}
