@@ -1,4 +1,4 @@
-# lisk-avatar ![](https://avatar.lisk.ws/1L.png?size=20) ![](https://avatar.lisk.ws/323L.png?size=20) ![](https://avatar.lisk.ws/42312232.png?size=20) ![](https://avatar.lisk.ws/911111.png?size=20) ![](https://avatar.lisk.ws/733333.png?size=20)
+# lisk-avatar ![](https://avatar.lisk.ws/1L?size=20) ![](https://avatar.lisk.ws/323L?size=20) ![](https://avatar.lisk.ws/42312232?size=20) ![](https://avatar.lisk.ws/911111?size=20) ![](https://avatar.lisk.ws/733333?size=20)
 
 Lisk Avatar generates the same avatars as you have seen on Lisk Hub.
 
@@ -20,7 +20,7 @@ Per default the service returns an SVG avatar
 https://avatar.lisk.ws/1234567890L
 ```
 
-![avatar](https://avatar.lisk.ws/1234567890L?size=100)
+![avatar](https://avatar.lisk.ws/12345678901L?size=100)
 
 ### PNG avatar
 
