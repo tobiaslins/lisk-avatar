@@ -53,3 +53,4 @@ Of course feel free to support my work by voting for [`elevate`](https://explore
 | alepop      |    ![Avatar from alepop](https://avatar.lisk.ws/9010579446607279905L?size=25)    |
 | liskpro.com | ![Avatar from liskpro.com](https://avatar.lisk.ws/13112651512533400586L?size=25) |
 | stellardynamic | ![Avatar from stellardynamic](https://avatar.lisk.ws/7292106026137978431L?size=25) |
+| mrv         | ![Avatar from mrv](https://avatar.lisk.ws/11380384760969655418L?size=25) |
